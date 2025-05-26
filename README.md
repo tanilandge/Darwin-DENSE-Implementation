@@ -22,3 +22,5 @@ This repository contains the code to train a federated learning model using NVID
   ```
 ### 4. Run the FL simulation accordingly:
   https://github.com/ShubhamK-Yadav/Darwin-Project-FL
+
+Results are in the PDF in the repository.
