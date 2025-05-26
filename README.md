@@ -20,3 +20,5 @@ This repository contains the code to train a federated learning model using NVID
     │   └── dense_generate.py 
     └── meta.json
   ```
+### 4. Run the FL simulation accordingly:
+  https://github.com/ShubhamK-Yadav/Darwin-Project-FL
